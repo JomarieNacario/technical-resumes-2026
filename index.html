@@ -3,90 +3,69 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Jomarie Eliason | Tech Portfolio</title>
+    <title>Jomarie Eliason | Portfolio</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <style>
-        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap');
-        body { font-family: 'Inter', sans-serif; }
+        body { background: #0f172a; color: #e2e8f0; font-family: 'Inter', sans-serif; }
         .glass { background: rgba(255, 255, 255, 0.03); backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.1); }
         .gradient-text { background: linear-gradient(90deg, #60a5fa, #a78bfa); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
     </style>
 </head>
-<body class="bg-[#0f172a] text-slate-200 selection:bg-blue-500/30">
-
-    <!-- Hero Section -->
-    <header class="relative py-20 px-6 overflow-hidden">
-        <div class="max-w-5xl mx-auto relative z-10 text-center">
-            <div class="inline-block px-4 py-1.5 mb-6 text-xs font-semibold tracking-widest text-blue-400 uppercase bg-blue-500/10 rounded-full border border-blue-500/20">
-                U.S. Army Veteran | 2026 Tech Suite
-            </div>
-            <h1 class="text-5xl md:text-7xl font-bold mb-6 tracking-tight">
-                Jomarie <span class="gradient-text">Eliason</span>
-            </h1>
-            <p class="text-xl text-slate-400 max-w-2xl mx-auto leading-relaxed">
-                Strategic Technical Sales & Cloud Architect specializing in 
-                <span class="text-white font-semibold">AI Automation</span> and 
-                <span class="text-white font-semibold">High-Performance Revenue Growth</span>.
-            </p>
+<body class="p-6 md:p-16 flex flex-col items-center min-h-screen">
+    
+    <div class="max-w-4xl w-full text-center mb-16">
+        <div class="inline-block px-4 py-1 mb-6 text-xs font-bold tracking-widest text-blue-400 uppercase bg-blue-500/10 rounded-full border border-blue-500/20">
+            U.S. Army Veteran | 2026 Technology Suite
         </div>
-    </header>
+        <h1 class="text-6xl font-black text-white mb-6">Jomarie <span class="gradient-text">Eliason</span></h1>
+        <p class="text-xl text-slate-400 max-w-2xl mx-auto leading-relaxed">
+            Strategic Technical Sales & Cloud Architect specializing in 
+            <span class="text-white font-semibold">AI Automation</span> and 
+            <span class="text-white font-semibold">High-Performance Revenue Growth</span>.
+        </p>
+    </div>
 
-    <!-- Expertise Grid -->
-    <main class="max-w-5xl mx-auto px-6 pb-24">
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-16">
-            <div class="glass p-8 rounded-2xl hover:border-blue-500/50 transition-all group">
-                <i class="fa-solid fa-robot text-blue-400 text-3xl mb-4"></i>
-                <h3 class="text-xl font-bold mb-2">AI & Automation</h3>
-                <p class="text-sm text-slate-400">Google AI Professional (2026). Expert in RIGS framework and Vibe Coding custom solutions.</p>
+    <div class="max-w-3xl w-full grid grid-cols-1 gap-6">
+        <!-- Resume 1 -->
+        <a href="Modern_Innovation_Resume.md" class="glass group p-8 rounded-3xl flex justify-between items-center hover:border-blue-500/50 transition-all border-l-8 border-l-blue-500">
+            <div>
+                <h3 class="text-2xl font-bold text-white group-hover:text-blue-400 transition-colors">🚀 Modern Innovation & AI Strategy</h3>
+                <p class="text-slate-400 mt-2">Strategic profile for AI Startups, Tech Consulting, and Innovation Teams.</p>
             </div>
-            <div class="glass p-8 rounded-2xl hover:border-purple-500/50 transition-all">
-                <i class="fa-solid fa-cloud text-purple-400 text-3xl mb-4"></i>
-                <h3 class="text-xl font-bold mb-2">Cloud Solutions</h3>
-                <p class="text-sm text-slate-400">AWS Certified Solutions Architect & Cloud Support Associate (2025). Azure Fundamentals.</p>
+            <i class="fas fa-arrow-right text-slate-600 group-hover:translate-x-2 transition-transform"></i>
+        </a>
+
+        <!-- Resume 2 -->
+        <a href="Cloud_Solutions_Architect.md" class="glass group p-8 rounded-3xl flex justify-between items-center hover:border-purple-500/50 transition-all border-l-8 border-l-purple-500">
+            <div>
+                <h3 class="text-2xl font-bold text-white group-hover:text-purple-400 transition-colors">☁️ Cloud Solutions Architect</h3>
+                <p class="text-slate-400 mt-2">Focus on AWS/Azure infrastructure, migration, and system reliability.</p>
             </div>
-            <div class="glass p-8 rounded-2xl hover:border-emerald-500/50 transition-all">
-                <i class="fa-solid fa-chart-line text-emerald-400 text-3xl mb-4"></i>
-                <h3 class="text-xl font-bold mb-2">Technical Sales</h3>
-                <p class="text-sm text-slate-400">Proven track record at Apple and Aurakore IT in B2B revenue and client success.</p>
+            <i class="fas fa-arrow-right text-slate-600 group-hover:translate-x-2 transition-transform"></i>
+        </a>
+
+        <!-- Resume 3 -->
+        <a href="AI_Automation_Specialist.md" class="glass group p-8 rounded-3xl flex justify-between items-center hover:border-emerald-500/50 transition-all border-l-8 border-l-emerald-500">
+            <div>
+                <h3 class="text-2xl font-bold text-white group-hover:text-emerald-400 transition-colors">🤖 AI & Automation Specialist</h3>
+                <p class="text-slate-400 mt-2">Expertise in RIGS Prompt Engineering, Vibe Coding, and AI integration.</p>
             </div>
-        </div>
+            <i class="fas fa-arrow-right text-slate-600 group-hover:translate-x-2 transition-transform"></i>
+        </a>
 
-        <!-- Resume Access -->
-        <h2 class="text-2xl font-bold mb-8 flex items-center gap-3">
-            <span class="w-8 h-[2px] bg-blue-500"></span>
-            Targeted Professional Profiles
-        </h2>
-        
-        <div class="space-y-4">
-            <a href="Modern_Innovation_Resume.md" class="group flex items-center justify-between p-6 glass rounded-xl hover:bg-white/5 transition-all border-l-4 border-l-blue-500">
-                <div>
-                    <h4 class="font-bold text-lg group-hover:text-blue-400 transition-colors">🚀 Modern Innovation & AI Strategy</h4>
-                    <p class="text-sm text-slate-500">Best for Startups, Innovation Labs, and AI-forward Consultancies.</p>
-                </div>
-                <i class="fa-solid fa-arrow-right text-slate-600 group-hover:translate-x-2 transition-transform"></i>
-            </a>
+        <!-- Resume 4 -->
+        <a href="Enterprise_IT_Support.md" class="glass group p-8 rounded-3xl flex justify-between items-center hover:border-amber-500/50 transition-all border-l-8 border-l-amber-500">
+            <div>
+                <h3 class="text-2xl font-bold text-white group-hover:text-amber-400 transition-colors">🛠️ Enterprise IT & Support</h3>
+                <p class="text-slate-400 mt-2">Senior troubleshooting, network security, and systems administration.</p>
+            </div>
+            <i class="fas fa-arrow-right text-slate-600 group-hover:translate-x-2 transition-transform"></i>
+        </a>
+    </div>
 
-            <a href="Cloud_Solutions_Architect.md" class="group flex items-center justify-between p-6 glass rounded-xl hover:bg-white/5 transition-all border-l-4 border-l-purple-500">
-                <div>
-                    <h4 class="font-bold text-lg group-hover:text-purple-400 transition-colors">☁️ Cloud Solutions & Support Architect</h4>
-                    <p class="text-sm text-slate-500">Focused on AWS/Azure infrastructure, security, and high availability.</p>
-                </div>
-                <i class="fa-solid fa-arrow-right text-slate-600 group-hover:translate-x-2 transition-transform"></i>
-            </a>
-
-            <a href="Enterprise_IT_Support.md" class="group flex items-center justify-between p-6 glass rounded-xl hover:bg-white/5 transition-all border-l-4 border-l-emerald-500">
-                <div>
-                    <h4 class="font-bold text-lg group-hover:text-emerald-400 transition-colors">🛠️ Enterprise IT & Systems Support</h4>
-                    <p class="text-sm text-slate-500">Traditional IT reliability, network security, and systems administration.</p>
-                </div>
-                <i class="fa-solid fa-arrow-right text-slate-600 group-hover:translate-x-2 transition-transform"></i>
-            </a>
-        </div>
-    </main>
-
-    <footer class="text-center pb-12 text-slate-600 text-sm">
-        <p>© 2026 Jomarie Eliason. Deployed via custom AI-Automation workflow.</p>
+    <footer class="mt-24 text-slate-600 text-sm text-center">
+        <p>© 2026 Jomarie Eliason | Built with AI-driven workflow</p>
     </footer>
 
 </body>
