@@ -1,4 +1,4 @@
-# JOMARIE ELIASON AI & Automation Specialist
+# JOMARIE NACARIO AI & Automation Specialist
 EXPERTISE
 AI-Native Technical Lead specialized in deploying Generative AI frameworks to solve operational challenges. Expert in building custom AI-powered applications without code ("Vibe Coding") to solve operational bottlenecks.
 
