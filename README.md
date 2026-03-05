@@ -1,12 +1,4 @@
-import requests
-import base64
-import json
-
-# =================================================================
-# RESUME & PORTFOLIO DATA (FULL CONTENT)
-# =================================================================
-resumes = {
-    "README.md": """# 🚀 Tech-Forward Solutions Architect & AI Strategist
+# 🚀 Tech-Forward Solutions Architect & AI Strategist
 ### U.S. Army Veteran | AWS Solutions Architect | AI Automation Expert
 
 Welcome to my professional repository. I specialize in the intersection of **Cloud Infrastructure**, **Generative AI Automation**, and **Strategic Sales**. My background combines the methodical discipline of military marine engineering with high-performance sales experience at Apple and entrepreneurial leadership.
@@ -23,7 +15,7 @@ Welcome to my professional repository. I specialize in the intersection of **Clo
 
 ## 📬 Connect With Me
 - **LinkedIn:** [www.linkedin.com/in/j-nacario]
-- **Portfolio:** [[Insert Your Link](https://github.com/JomarieEliason)]
+- **Portfolio:** [[Insert Your Link](https://github.com/JomarieEliason)
 - **Email:** [jomarienacario15@gmail.com]
 
 *Last Updated: March 2026*
