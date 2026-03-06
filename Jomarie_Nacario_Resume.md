@@ -48,29 +48,34 @@ MTA: Software Development Fundamentals | Microsoft | 2021
 PROFESSIONAL EXPERIENCE
 
 AURAKORE IT SOLUTIONS | Account Executive | 2025 – 2025
+
 Orchestrate end-to-end B2B sales cycles for IT solutions, identifying technical pain points and proposing scalable cloud architectures.
 Manage high-value accounts, ensuring alignment between client business goals and technical service delivery.
 Innovation Milestone: Integrated AI-driven lead research and automated reporting tools, increasing outreach efficiency by 40%.
 
 APPLE | Sales Specialist | 2019 – 2020
+
 Delivered expert-level product demonstrations and technical consultations for a diverse global customer base.
 Consistently exceeded aggressive sales targets while maintaining top-tier Net Promoter Scores (NPS).
 Collaborated with Technical Support teams (Genius Bar) to ensure seamless handoffs for complex hardware/software repairs.
 
 BJORN JEWELS | Founder / CEO | 2017 – 2018
+
 Architected and scaled a full-funnel e-commerce enterprise, overseeing digital marketing, brand strategy, and global supply chain.
 Optimized operational overhead by implementing automated data tracking and AI-enhanced customer service workflows.
 
 U.S. ARMY | Marine Engineering Specialist | 2010 – 2010
+
 Performed critical maintenance and precision repairs on marine engineering systems in high-stakes environments.
 Developed a disciplined, methodical approach to systems troubleshooting that serves as the foundation for current technical rigor.
 
 
 EDUCATION
 
-Mount Saint Mary’s University | Bachelor of Arts (BA) in Business Administration
-Frankfurt University of Applied Sciences | European Studies: History, Law, and Finance
+Mount Saint Mary’s University | Bachelor of Arts (BA) in Business AdministrationFrankfurt University of Applied Sciences | European Studies: History, Law, and Finance
+
 Santa Monica College | Associate of Arts (AA) in Business Administration
+
 U.S. Army Engineering School | Technical Training in Marine Systems
 
 Ongoing Professional Development:
