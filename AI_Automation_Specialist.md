@@ -8,4 +8,4 @@ Data Intelligence: Visualizing unstructured data via Gemini and BigQuery.
 Automation: Deploying AI agents for sales and support workflows.
 CERTIFICATIONS
 Google AI Professional Certificate (2026)
-MTA: Software Development Fundamentals """
+MTA: Software Development Fundamentals
