@@ -72,7 +72,9 @@ Developed a disciplined, methodical approach to systems troubleshooting that ser
 
 EDUCATION
 
-Mount Saint Mary’s University | Bachelor of Arts (BA) in Business AdministrationFrankfurt University of Applied Sciences | European Studies: History, Law, and Finance
+Mount Saint Mary’s University | Bachelor of Arts (BA) in Business Administration
+
+Frankfurt University of Applied Sciences | European Studies: History, Law, and Finance
 
 Santa Monica College | Associate of Arts (AA) in Business Administration
 
