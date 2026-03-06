@@ -23,8 +23,9 @@ My foundation was built in the U.S. Army as a Marine Engineering Specialist. I b
 LinkedIn: [LinkedIn](linkedin.com/in/j-nacario)
 
 Portfolio:[Github](JomarieNacario.github.io/technical-resumes-2026)
+
 Email: jomarienacario15@gmail.com
 
-Phone: 0960-563-6035
+Phone: 718-288-9035
 
 "The Army taught me how to fix it; Apple taught me how to sell the solution; AI allows me to scale it."
